@@ -1,10 +1,9 @@
 {
-  "name": "cloud-project",
+  "name": "node-game",
   "version": "1.0.0",
-  "desciption": "my project"
+  "description": "simple game",
   "main": "index.js",
-  "scipts": {
+  "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {}
+  }
 }
